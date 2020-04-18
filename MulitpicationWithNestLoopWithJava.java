@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class MulitpicationWithNestLoopWithJava{
    // public static Scanner sc;
     private static Scanner sc;
     
