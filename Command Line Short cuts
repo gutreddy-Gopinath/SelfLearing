@@ -1,0 +1,4 @@
+Go back to parent folder: cd..
+Open particular folder: cd .\<folderName>\
+Go to main parent: cd\
+Open files/folder on a folder: ls
